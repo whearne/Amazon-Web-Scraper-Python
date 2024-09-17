@@ -1,4 +1,4 @@
-# Amazon Web Scraper Project
+# Amazon Web Scraper Project ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 This project is an Amazon web scraper built using Python. It allows you to track the price and availability of products on Amazon and sends you notifications when certain conditions are met (e.g., price drops). This script utilizes the BeautifulSoup and requests libraries for web scraping and the smtplib library for email notifications.
 
 ## Features
