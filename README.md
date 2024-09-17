@@ -24,7 +24,7 @@ pip install beautifulsoup4 requests
 
 2. Navigate to the project directory:
 
-    cd amazon-web-scraper
+    cd amazon-web-scraper-project
 
 3. Install the necessary Python libraries if you haven't already.
 
