@@ -52,3 +52,6 @@ pip install beautifulsoup4 requests
     python Amazon\ Web\ Scraper\ Project.py
 ### Scheduled Execution
 To run the script automatically at regular intervals, you can use a task scheduler (e.g., cron on Linux/Mac or Task Scheduler on Windows).
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
